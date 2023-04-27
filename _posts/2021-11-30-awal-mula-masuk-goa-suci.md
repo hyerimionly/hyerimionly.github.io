@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Awal Mula Masuk Goa Suci
+title: 광고1
 description: cerita awal mula diriku bisa tau, bertemu, lalu masuk ke dalam Goa Suci (Pondok Pesantren) selama 6 tahun.
 tags: daily pesantren
 image: https://res.cloudinary.com/notee/image/upload/v1640411838/notes/awal-mula-masuk-goax.jpg

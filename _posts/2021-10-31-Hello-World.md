@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World!
+title: 뮤비1
 description: hanya sebuah postingan pembuka dalam blog notes ini.
 tags: daily random
 image: https://res.cloudinary.com/notee/image/upload/v1640412430/notes/hello-world.jpg

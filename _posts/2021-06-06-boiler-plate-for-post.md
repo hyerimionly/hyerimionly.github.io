@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boiler Plate for Markdown Posting
+title: 뮤비2
 description: hanya sebuah boiler plate untuk format postingan markdown di blog ini.
 author: aliif
 tags: random

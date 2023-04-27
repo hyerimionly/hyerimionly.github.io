@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Perjalanan Bertemu Koding
+title: 광고2
 description: Perjalanan dalam bertemu perokodingan duniawi lalu memutuskan masuk ke dalamnya.
 tags: daily coding
 image: https://res.cloudinary.com/notee/image/upload/v1640412791/notes/meet-passion.jpg
