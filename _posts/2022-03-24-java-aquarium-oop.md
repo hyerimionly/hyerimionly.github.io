@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Java studi kasus Aquarium
+title: 난 공주, 이건 취미
 description: Java studi kasus Aquarium multi objek dengan implementasi inheritance dan polymorphism.
 author: aliif
 tags: java oop coding
-image: 
-thumb: 
+image: /img/the_princess_fruit_stand.jpeg
+thumb: /img/the_princess_fruit_stand.jpeg
 ---
 
 Assalamualaikum folks,
