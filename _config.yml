@@ -100,7 +100,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: https://res.cloudinary.com/notee/image/upload/v1640411291/notes/imgseo.jpg
+      image: ./img/profile/og-img.jpeg
   - 
     scope:
       path: ""
