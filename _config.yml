@@ -3,8 +3,8 @@ title: hyerim profile
 greetings: 😁
 description: 
 lang: en
-image: https://res.cloudinary.com/notee/image/upload/v1640411291/notes/imgseo.jpg
-timezone:  Asia/Jakarta
+image: ./img/profile/og-img.jpeg
+timezone:  Asia/Seoul
 repo: https://github.com/aliifam/cnote # site repo [optional]
 data-theme: light # default theme "dark" | "light"
 discus-identifier: webthme
@@ -14,7 +14,7 @@ author:
   name: Aliif Arief
   url: https://notes.aliif.space/
   bio: just ordinary boy interest in software development 
-  avatar: ./img/hyerim.PNG
+  avatar: ./img/profile/profile_img.jpeg
   username: aliifam # general username
   github: aliifam # github username
   twitter: lifrief # twitter username
